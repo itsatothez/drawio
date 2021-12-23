@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T04:59:32.909Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.2.777 Yowser/2.5 Safari/537.36" etag="8TfCvq5K8zUYQpj2RyG0" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T05:27:30.377Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.2.777 Yowser/2.5 Safari/537.36" etag="X5tTxpZwZy_pmWdB0AEw" version="16.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1697" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,10 +125,11 @@
         <mxCell id="7u0CSYYLVKe7ubRiZnHP-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=10;" vertex="1" parent="7u0CSYYLVKe7ubRiZnHP-27">
           <mxGeometry x="45" y="553" width="10" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="7u0CSYYLVKe7ubRiZnHP-41" value="200 OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fontSize=10;" edge="1" parent="7u0CSYYLVKe7ubRiZnHP-27" target="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="7u0CSYYLVKe7ubRiZnHP-41" value="201 OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fontSize=10;" edge="1" parent="7u0CSYYLVKe7ubRiZnHP-27" target="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="-0.0036" y="-10" relative="1" as="geometry">
             <mxPoint x="-25" y="590" as="targetPoint" />
             <mxPoint x="45" y="590" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7u0CSYYLVKe7ubRiZnHP-30" value=".Оплата" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fontSize=10;" edge="1" target="3nuBFxr9cyL0pnOWT2aG-1" parent="1">
@@ -177,7 +178,7 @@
             <mxPoint x="170.5" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7u0CSYYLVKe7ubRiZnHP-44" value="Данные оплаты" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fontSize=10;" edge="1" parent="1">
+        <mxCell id="7u0CSYYLVKe7ubRiZnHP-44" value="201 ОК Данные оплаты" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry x="-0.0813" y="-6" relative="1" as="geometry">
             <mxPoint x="180" y="797" as="targetPoint" />
             <mxPoint x="485" y="796.5" as="sourcePoint" />
