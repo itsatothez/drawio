@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T05:31:22.153Z" agent="5.0 (Windows)" etag="SJENTufRv69MILUAcYLr" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T07:23:47.179Z" agent="5.0 (Windows)" etag="YnDdCCNtgC1TsnqsR7h1" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1268" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,9 +13,6 @@
         <mxCell id="4U-_wcp4zjPsLQzwcgvi-6" value="Заполнение данных для поиска билетов" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=user;fontSize=10;" vertex="1" parent="4U-_wcp4zjPsLQzwcgvi-12">
           <mxGeometry x="80" y="42.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4U-_wcp4zjPsLQzwcgvi-16" value="Выбор подходящего билета" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=user;fontSize=10;" vertex="1" parent="4U-_wcp4zjPsLQzwcgvi-12">
-          <mxGeometry x="300" y="42.5" width="130" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="4U-_wcp4zjPsLQzwcgvi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="4U-_wcp4zjPsLQzwcgvi-12" source="4U-_wcp4zjPsLQzwcgvi-17" target="4U-_wcp4zjPsLQzwcgvi-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,9 +22,9 @@
         <mxCell id="4U-_wcp4zjPsLQzwcgvi-18" value="&#xa;Заполнение платежных реквизитов" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=user;fontSize=10;" vertex="1" parent="4U-_wcp4zjPsLQzwcgvi-12">
           <mxGeometry x="750" y="40" width="130" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="4U-_wcp4zjPsLQzwcgvi-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="4U-_wcp4zjPsLQzwcgvi-12" source="4U-_wcp4zjPsLQzwcgvi-16" target="4U-_wcp4zjPsLQzwcgvi-17">
+        <mxCell id="4U-_wcp4zjPsLQzwcgvi-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" edge="1" parent="4U-_wcp4zjPsLQzwcgvi-12" target="4U-_wcp4zjPsLQzwcgvi-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="67.5" as="sourcePoint" />
             <mxPoint x="440" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -63,10 +60,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4U-_wcp4zjPsLQzwcgvi-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4U-_wcp4zjPsLQzwcgvi-11" target="4U-_wcp4zjPsLQzwcgvi-16">
+        <mxCell id="4U-_wcp4zjPsLQzwcgvi-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4U-_wcp4zjPsLQzwcgvi-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="170" as="sourcePoint" />
-            <mxPoint x="440" y="216" as="targetPoint" />
+            <mxPoint x="300" y="87.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="88" />
             </Array>
